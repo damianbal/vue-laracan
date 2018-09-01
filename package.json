@@ -1,0 +1,15 @@
+{
+  "name": "Vue-Laracan",
+  "version": "0.1.0",
+  "description": "Access laracan in Vue components",
+  "main": "Laracan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "keywords": [],
+  "author": "Damian Balandowski",
+  "license": "ISC"
+}
